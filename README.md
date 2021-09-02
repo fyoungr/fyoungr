@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @fyoungr
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+fyoungr/fyoungr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+hello history ,this is a good new day .
+where is the truth  where we  going .
